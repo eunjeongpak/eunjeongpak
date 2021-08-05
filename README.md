@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##STUDY
-|**고려대학교 경제학과**|2016.03 ~ 2020.08|
-|**CodeStates AI BOOTCAMP 4기**|2021.05 ~ 2021.11|
+## STUDY
+| Study | Period |
+| ------ | ------ |
+|**Economics&Chinese Language and Literature, Korea University**|2016.03 ~ 2020.08|
+|**CodeStates AI BOOTCAMP**|2021.05 ~ 2021.11|
 
-##My Github Languages
+## My Github Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjeongpak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
