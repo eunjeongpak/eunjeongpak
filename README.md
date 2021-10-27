@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## STUDY : 🌱 I’m currently learning
 | Study | Period |
 | ------ | ------ |
-|****Korea University**** Economics&Chinese Language and Literature|2016.03 ~ 2020.08|
+|****Korea University**** Economics & Chinese Language and Literature|2016.03 ~ 2020.08|
 |****CodeStates**** AI BOOTCAMP|2021.05 ~ 2021.11|
 
 
