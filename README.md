@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## STUDY : 🌱 I’m currently learning
+## STUDY : 🌱 I’m currently learning Data Science
 | Study | Period |
 | ------ | ------ |
 |****Korea University**** Economics & Chinese Language and Literature|2016.03 ~ 2020.08|
