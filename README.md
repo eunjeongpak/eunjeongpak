@@ -20,8 +20,3 @@ Here are some ideas to get you started:
 | ------ | ------ |
 |****Korea University**** Economics & Chinese Language and Literature|2016.03 ~ 2020.08|
 |****CodeStates**** AI BOOTCAMP|2021.05 ~ 2021.11|
-
-
-## My Github Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjeongpak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
