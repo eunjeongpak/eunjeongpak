@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning Data Science
 
+공부하는 것들은 여기에 정리💬 https://velog.io/@2_j_life
+
 <!--
 **eunjeongpak/eunjeongpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
