@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## STUDY 
-| Study | Period |
-| ------ | ------ |
-|****CodeStates**** AI BOOTCAMP|2021.05 ~ 2021.12|
-|****Korea University**** Economics & Chinese Language and Literature|2016.03 ~ 2022.02|
-
-
 ## PROJECTS
 | Projects | LINK |
 | ------ | ------ |
